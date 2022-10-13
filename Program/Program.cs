@@ -50,12 +50,12 @@ namespace Course {
              a = 5.1;
              b = (int)a;
 
-             Console.WriteLine(b);*/
+             Console.WriteLine(b);
 
             int n1 = 3 + 4 * 2;
             int n2 = (3 + 4) * 2;
             int n3 = 17 % 3;
-            double n4 = 10 / 8.0;
+            double n4 = 10 / 8.0;*/
 
             double a = 1.0, b = -3.0, c = -4.0;
 
