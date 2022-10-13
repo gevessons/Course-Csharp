@@ -3,7 +3,7 @@ namespace Course {
     public static class Program {
         public static void Main(string[] args) {
 
-            /*int a = 10;
+            int a = 10;
 
             Console.WriteLine(a);
 
@@ -20,8 +20,8 @@ namespace Course {
             Console.WriteLine(s);
 
             int a = 10;
-            //a++;
-            //a--;
+            a++;
+            a--;
             Console.WriteLine(a);
 
             int a1 = 10;
@@ -55,7 +55,7 @@ namespace Course {
             int n1 = 3 + 4 * 2;
             int n2 = (3 + 4) * 2;
             int n3 = 17 % 3;
-            double n4 = 10 / 8.0;*/
+            double n4 = 10 / 8.0;
 
             double a = 1.0, b = -3.0, c = -4.0;
 
@@ -64,10 +64,10 @@ namespace Course {
             double x1 = (-b + Math.Sqrt(delta)) / (2.0 * a);
             double x2 = (-b - Math.Sqrt(delta)) / (2.0 * a);
 
-            /*Console.WriteLine(n1);
+            Console.WriteLine(n1);
             Console.WriteLine(n2);
             Console.WriteLine(n3);
-            Console.WriteLine(n4);*/
+            Console.WriteLine(n4);
 
             Console.WriteLine(delta);
             Console.WriteLine(x1);
