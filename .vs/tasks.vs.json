@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Exercicios_Propostos",
+      "appliesTo": "Exercicios_Propostos/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarefa-Exercicios_Propostos",
+      "appliesTo": "Exercicios_Propostos/",
+      "type": "launch"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\aulaC#\ExerciciosPropostos\bin\Debug\net6.0\ExerciciosPropostos.exe
+C:\Users\Usuario\source\repos\aulaC#\ExerciciosPropostos\bin\Debug\net6.0\ExerciciosPropostos.deps.json
+C:\Users\Usuario\source\repos\aulaC#\ExerciciosPropostos\bin\Debug\net6.0\ExerciciosPropostos.runtimeconfig.json
+C:\Users\Usuario\source\repos\aulaC#\ExerciciosPropostos\bin\Debug\net6.0\ExerciciosPropostos.dll
+C:\Users\Usuario\source\repos\aulaC#\ExerciciosPropostos\bin\Debug\net6.0\ExerciciosPropostos.pdb
+C:\Users\Usuario\source\repos\aulaC#\ExerciciosPropostos\obj\Debug\net6.0\ExerciciosPropostos.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\aulaC#\ExerciciosPropostos\obj\Debug\net6.0\ExerciciosPropostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\aulaC#\ExerciciosPropostos\obj\Debug\net6.0\ExerciciosPropostos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\aulaC#\ExerciciosPropostos\obj\Debug\net6.0\ExerciciosPropostos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\aulaC#\ExerciciosPropostos\obj\Debug\net6.0\ExerciciosPropostos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\aulaC#\ExerciciosPropostos\obj\Debug\net6.0\ExerciciosPropostos.dll
+C:\Users\Usuario\source\repos\aulaC#\ExerciciosPropostos\obj\Debug\net6.0\refint\ExerciciosPropostos.dll
+C:\Users\Usuario\source\repos\aulaC#\ExerciciosPropostos\obj\Debug\net6.0\ExerciciosPropostos.pdb
+C:\Users\Usuario\source\repos\aulaC#\ExerciciosPropostos\obj\Debug\net6.0\ExerciciosPropostos.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\aulaC#\ExerciciosPropostos\obj\Debug\net6.0\ref\ExerciciosPropostos.dll
